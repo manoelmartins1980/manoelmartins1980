@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 [![website manoelmartins.com](https://img.shields.io/website-up-down-green-red/https/manoelmartins.com.svg)](https://manoelmartins.com/)
+<br/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/manoelmartins/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/manoelmartins1980/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/manoelmartins">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manoelmartins1980&theme=algolia&show_icons=true&hide_border=true&bg_color=45,1f34df,007aa0&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
