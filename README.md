@@ -32,9 +32,13 @@ Here are some ideas to get you started:
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="K8s" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/><hr/>
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelmartins1980&repo=first-frontend-project&theme=algolia&bg_color=45,1f34df,007aa0&hide_border=true&border_radius=20)](https://github.com/manoelmartins1980/github-readme-stats)
+<hr/>
 <div style="display: inline_block" align="right">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
     <img alt="RedHat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
+
