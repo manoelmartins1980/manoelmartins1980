@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**manoelmartins1980/manoelmartins1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-
 - 🔭 I’m currently working on Network Administration
 - 🌱 I’m currently learning Python, C, Container (Docker/K8s)
 
 [![website manoelmartins.com](https://img.shields.io/website-up-down-green-red/https/manoelmartins.com.svg)](https://manoelmartins.com/)
-<br/>
-<div id="badges">
+
+
+<div>
   <a href="https://www.linkedin.com/in/manoelmartins/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
